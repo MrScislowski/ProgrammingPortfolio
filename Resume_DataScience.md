@@ -27,4 +27,7 @@ Capstone projects consisted of:
 
 ### High School Math Computer Science Teacher, Wichita area high schools, 2012-present
 
-- Taught math, physics, and computer science classes including AP Calculus and AP Computer Science A.
+- Taught computer science, physics, and math classes including AP Computer Science A and AP Calculus
+- Collected data and performed analysis on academic performance, attendance data, and remote learning engagement patterns
+- Scraped and categorized content from a variety of sources (including College Board, Khan Academy) to streamline accessibility
+- Developed a full stack web app for use by teachers and students to facilitate equitable access to classroom assistance
