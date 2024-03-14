@@ -60,6 +60,10 @@ School was implementing experimental policy of "flex days" where students could 
 
 In the 2020-2021 year when my school district was using hybrid learning, I hosted lesson videos on a Google Site with an embedded iframe that was able to log student interactions to a firebase database. I used python with pandas to compare in-person to remote instruction, and visualized metrics like what time of day students were engaging with instruction on remote days.
 
+### ap-physics-question-bank
+
+I scraped screenshots of AP Physics exam questions, and categorized their topics in a spreadsheet. I hosted this information on a React [website](https://ap-physics-question-bank.herokuapp.com/) that allows searching for exam questions by topic, by year, or by text (I put each question screenshot through tesseract OCR). This facilitates quick access to practice material.
+
 ### student-help-queue
 
 Wrote a full stack [web app](https://help-queue-teacher-frontend-239b686a3dfd.herokuapp.com/) (react, node with express, mongoDB) for students and their teacher to use. Acts like a ticketing system where students add their name to a queue when they want help in class, ensuring equitable assistance by teacher and monitoring how long wait times are, as well as preserving requests spanning days. Used this in the 2023-2024 school year.
