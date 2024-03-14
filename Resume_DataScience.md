@@ -8,7 +8,7 @@ Github profile: https://github.com/MrScislowski
 
 ## Objective statement
 
-For the past 12 years I have been a high school computer science / math teacher. I am a lifelong lover of learning, and have enjoyed the challenge of connecting high school math/science content to more advanced applications in physics, algorithms, and other familiar fields. The most rewarding part of my job has been analyzing performance data and streamlining workflows using the analytical skills and experience I developed during my time in college and graduate school. I would like to transition to a career where I can apply and hone those skills in more depth.
+For the past 12 years I have been a high school computer science / math teacher. I am a lifelong learner, and enjoyed the challenge of connecting high school math/science content to more advanced applications in physics, algorithms, and other familiar fields. But the most rewarding part of my job has been analyzing performance data and streamlining workflows using the analytical skills and experience I developed during my time in college and graduate school. I would like to transition to a career where I can apply and hone those skills in more depth.
 
 ## Education
 
@@ -54,11 +54,21 @@ Gathered data with manual screenshot of past AP tests, scraping Khan Academy exe
 
 School was implementing experimental policy of "flex days" where students could choose which classes to visit and scan their student ID barcode to log attendance. However, attendance data was hard to access through student information system (SIS). I used R to analyze all of the attendance data and:
 
-- proposed changes to real-time scanning interface
-- generated graphical display for each students flex day behavior that was more user friendly than provided by SIS
+- identified problems in data integrity and proposed changes to real-time scanning interface
+- generated graphical display for each students flex day location that was more user friendly than provided by SIS
 
 ### Video Administration, 2021
 
+In the 2020-2021 year when my school district was using hybrid learning, I hosted lesson videos on a Google Site with an embedded iframe that was able to log student interactions to a firebase database. I used python with pandas to compare in-person to remote instruction, and visualized metrics like what time of day students were engaging with instruction on remote days.
+
+### ap-physics-question-bank
+
+I scraped screenshots of AP Physics exam questions, and categorized their topics in a spreadsheet. I hosted this information on a React [website](https://ap-physics-question-bank.herokuapp.com/) that allows searching for exam questions by topic, by year, or by text (I put each question screenshot through tesseract OCR). This facilitates quick access to practice material.
+
+### student-help-queue
+
+Wrote a full stack [web app](https://help-queue-teacher-frontend-239b686a3dfd.herokuapp.com/) (react, node with express, mongoDB) for students and their teacher to use. Acts like a ticketing system where students add their name to a queue when they want help in class, ensuring equitable assistance by teacher and monitoring how long wait times are, as well as preserving requests spanning days. Used this in the 2023-2024 school year.
+
 ## Professional Development
 
-Helsinki Full Stack
+Audited [University of Helsinki Full Stack Open](https://fullstackopen.com/en/#course-contents) Course (parts 0-11). Currently working on credentializing this.
