@@ -31,3 +31,34 @@ Capstone projects consisted of:
 - Collected data and performed analysis on academic performance, attendance data, and remote learning engagement patterns
 - Scraped and categorized content from a variety of sources (including College Board, Khan Academy) to streamline accessibility
 - Developed a full stack web app for use by teachers and students to facilitate equitable access to classroom assistance
+
+## Technical Projects
+
+### HWData (SQL, R w/ tidyverse), 2019
+
+Kept math class grades in SQLite database, and used R markdown files to:
+
+- make a graphical summary of each student's performance over the semester to look for notable improvements / performance decreases
+- determine the correlation between quiz scores, homework completion, and test scores
+- determine the days of the week students are missing assignments most, and student responses to missing class (e.g. on cloud learning platform)
+
+### APCalculusResourceOrganizer, 2019
+
+Gathered data with manual screenshot of past AP tests, scraping Khan Academy exercises, and scraping AP classroom website. Using this:
+
+- analyzed which topics were tested most in recent AP tests, and kept track of how much practice on each topic I had assigned
+- generated large question bank html document that allowed quick and easy access to all the available content, and to track what I had used already
+- generated individualized student study plans and class summary data using AP Practic exam performance data
+
+### InfiniteCampus, 2020
+
+School was implementing experimental policy of "flex days" where students could choose which classes to visit and scan their student ID barcode to log attendance. However, attendance data was hard to access through student information system (SIS). I used R to analyze all of the attendance data and:
+
+- proposed changes to real-time scanning interface
+- generated graphical display for each students flex day behavior that was more user friendly than provided by SIS
+
+### Video Administration, 2021
+
+## Professional Development
+
+Helsinki Full Stack

@@ -1,7 +1,6 @@
 | Date    | Name/link                                              | Description                                                                        |
 | ------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | ??      | Saltyneck.org - website to search YMCA classes         |
-| 07/2017 | C program to get Khan Academy Homework                 |
 | 07/2018 | [CSA admin](https://github.com/MrScislowski/csa-admin) | Google Apps scripts to help manage a local community-supported agriculture program |
 | 03/2019 | HWData                                                 | Coming soon...                                                                     |
 | 07/2019 | KAQuestionDownloader                                   | Coming soon...                                                                     |
