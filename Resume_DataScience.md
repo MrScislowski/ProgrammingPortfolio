@@ -1,14 +1,13 @@
 ## Contact Information
 
 Name: Daniel Scislowski
-Address: 1016 S Wichita, Wichita, KS
 Email: daniel.j.scislowski@gmail.com
 LinkedIn profile: www.linkedin.com/in/daniel-scislowski-2bb3782ba
 Github profile: https://github.com/MrScislowski
 
 ## Objective statement
 
-For the past 12 years I have been a high school computer science / math teacher. I am a lifelong learner, and enjoyed the challenge of connecting high school math/science content to more advanced applications in physics, algorithms, and other familiar fields. But the most rewarding part of my job has been analyzing performance data and streamlining workflows using the analytical skills and experience I developed during my time in college and graduate school. I would like to transition to a career where I can apply and hone those skills in more depth.
+For the past 12 years I have been a high school computer science / math teacher, and would like to transition to a role in data science or software development. I am a lifelong learner, and have enjoyed the challenge of connecting high school math/science content to more advanced applications in physics, algorithms, and other familiar fields. But the most rewarding part of my job has been analyzing performance data and streamlining workflows using the analytical skills and experience I developed during my time in college and graduate school. I would like to transition to a career where I can apply and hone those skills in more depth.
 
 ## Education
 
@@ -27,10 +26,10 @@ Capstone projects consisted of:
 
 ### High School Math Computer Science Teacher, Wichita area high schools, 2012-present
 
-- Taught computer science, physics, and math classes including AP Computer Science A and AP Calculus
-- Collected data and performed analysis on academic performance, attendance data, and remote learning engagement patterns
+- Taught computer science, physics, and math classes including AP Computer Science A and AP Calculus (consistently scoring above national and Kansas averages in AP exam scores)
+- Collected data and performed analysis on academic performance, attendance data, and remote learning engagement patterns (using SQLite and firebase databases, coding in R and python)
 - Scraped and categorized content from a variety of sources (including College Board, Khan Academy) to streamline accessibility
-- Developed a full stack web app for use by teachers and students to facilitate equitable access to classroom assistance
+- Developed a full stack web app for use by teachers and students to facilitate equitable access to classroom assistance (using react, express, and mongoDB)
 
 ## Technical Projects
 
@@ -71,4 +70,4 @@ Wrote a full stack [web app](https://help-queue-teacher-frontend-239b686a3dfd.he
 
 ## Professional Development
 
-Audited [University of Helsinki Full Stack Open](https://fullstackopen.com/en/#course-contents) Course (parts 0-11). Currently working on credentializing this.
+Audited [University of Helsinki Full Stack Open](https://fullstackopen.com/en/#course-contents) Course (parts 0-11 covering React, Express, testing, React state management, GraphQL, Typescript, and React Native). Currently working on credentializing this.
