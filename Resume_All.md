@@ -13,7 +13,7 @@ For the past 12 years I have been a high school computer science / math teacher,
 
 ### MSc (physics) from University of Washington, 2008-2011
 
-As a research assistant working on the SNO+ neutrino observation experiment, I worked on simulating neutrino and background radiation detection in liquid scintillator using the Geant4 particle physics software toolkit.
+As a research assistant working on the SNO+ neutrino observation experiment, I worked on simulating neutrino and background radiation detection in liquid scintillator using the Geant4 particle physics software toolkit (C++ Monte Carlo Framework), and the ROOT .
 
 ### BSc (physics) from University of Manchester, 2004-2008
 
